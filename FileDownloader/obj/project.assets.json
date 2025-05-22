@@ -2947,11 +2947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\FileDownloader\\FileDownloader\\FileDownloader.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Repositories\\FileDownloader\\FileDownloader\\FileDownloader.csproj",
       "projectName": "FileDownloader",
-      "projectPath": "C:\\Users\\user\\Desktop\\FileDownloader\\FileDownloader\\FileDownloader.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\Repositories\\FileDownloader\\FileDownloader\\FileDownloader.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\FileDownloader\\FileDownloader\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Repositories\\FileDownloader\\FileDownloader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2983,7 +2983,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3014,7 +3015,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

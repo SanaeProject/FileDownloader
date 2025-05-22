@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K5gZILtc/5A0Y3tadjMznTMKCPSsJm6ZsahFug8kH6Q+Iws/ukXzuGHbmlpzTgg/5cz3qUtE8uY1uKaG8WSsAg==",
+  "dgSpecHash": "KNwK3klhbfA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\FileDownloader\\FileDownloader\\FileDownloader.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\Repositories\\FileDownloader\\FileDownloader\\FileDownloader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
